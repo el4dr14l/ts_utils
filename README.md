@@ -10,7 +10,7 @@ npm install @wiriest-lemur/ts_utils
 
 ## Usage
 ```
-import { isValidHexColor, fontContrastColor, euroCurrencyFormatNumber, humanReadableDateTime } from '@wiriest-lemur/ts_utils';
+import { isValidHexColor, fontContrastColor, euroCurrencyFormatNumber, humanReadableDateTime } from '@wiriest-lemur/ts_utils/dist/src';
 
 console.log(isValidHexColor('#00FF00')); // true
 console.log(fontContrastColor('#00FF00')); // "#121212"
