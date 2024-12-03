@@ -5,7 +5,7 @@ A collection of useful methods including color validation, contrast calculation,
 
 ## Installation
 ```sh
-npm install @californiadrims/ts_utils
+npm install @el4dr14l/ts_utils
 ```
 
 ## Usage
