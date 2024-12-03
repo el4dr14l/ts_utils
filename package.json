@@ -1,5 +1,5 @@
 {
-  "name": "@californiadrims/ts_utils",
+  "name": "@el4dr14l/ts_utils",
   "version": "1.0.0",
   "description": "A collection of useful methods including color validation, contrast calculation, currency formatting, and date/time formatting.",
   "main": "dist/index.js",
